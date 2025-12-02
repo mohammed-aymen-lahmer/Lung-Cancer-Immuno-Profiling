@@ -12,11 +12,7 @@ Immunotherapy has revolutionized Non-Small Cell Lung Cancer (NSCLC) treatment. H
 4. **Clinical Analysis:** Correlation between the "Immune Score" and patient survival.
 
 ## 📊 Key Results
-The heatmap below shows the stratification of patients based on their cytotoxic activity:
-
-![Immune Signature Heatmap]<img width="664" height="664" alt="impact of immunity on survival" src="https://github.com/user-attachments/assets/9f07ba42-127c-4274-93df-6d5a88dfc417" />
-
-*(Analysis performed by M.A. Lahmer)*![Uploading impact of immunity on survival.png…]()
+*(Analysis performed by M.A. Lahmer)*<img width="664" height="664" alt="impact of immunity on survival" src="https://github.com/user-attachments/assets/34540c63-84e9-4206-bb30-ebdc8887bf4b" />
 
 
 ## 🚀 How to Run
