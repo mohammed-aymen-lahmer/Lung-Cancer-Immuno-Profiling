@@ -1,7 +1,6 @@
 # 🧬 Lung Cancer Immuno-Profiling & Survival Prediction
 
 **Author:** Mohamed Aymen Lahmer  
-**Context:** Master 1 Bioinformatics Project (Bordeaux)
 
 ## 🎯 Project Overview
 Immunotherapy has revolutionized Non-Small Cell Lung Cancer (NSCLC) treatment. However, response rates vary. This project aims to identifying "Hot Tumors" (responsive) vs "Cold Tumors" using a custom transcriptomic signature.
