@@ -14,8 +14,10 @@ Immunotherapy has revolutionized Non-Small Cell Lung Cancer (NSCLC) treatment. H
 ## 📊 Key Results
 The heatmap below shows the stratification of patients based on their cytotoxic activity:
 
-![Immune Signature Heatmap](heatmap_result.png)
-*(Analysis performed by M.A. Lahmer)*
+![Immune Signature Heatmap]<img width="664" height="664" alt="impact of immunity on survival" src="https://github.com/user-attachments/assets/9f07ba42-127c-4274-93df-6d5a88dfc417" />
+
+*(Analysis performed by M.A. Lahmer)*![Uploading impact of immunity on survival.png…]()
+
 
 ## 🚀 How to Run
 ```r
