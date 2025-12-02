@@ -20,4 +20,4 @@ Immunotherapy has revolutionized Non-Small Cell Lung Cancer (NSCLC) treatment. H
 # Install dependencies
 BiocManager::install("TCGAbiolinks")
 # Run the analysis
-source("main_analysis.R")
+source("AYMEN.R")
